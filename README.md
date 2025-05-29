@@ -32,4 +32,5 @@ Todo:
 * actually implement the available features into the esp lol
 
 ## Scheme
-![qiuu](https://github.com/user-attachments/assets/1acd89ba-e1a6-4fd5-991b-56434bdedabf)
+![qiuu](https://github.com/user-attachments/assets/a2b94dbc-631a-4b90-a59e-4046df9790aa)
+
