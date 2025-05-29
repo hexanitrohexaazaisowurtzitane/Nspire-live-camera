@@ -1,8 +1,10 @@
 # Nspire-live-camera
 A cool streaming camera for the ti nspire cx!
 
-<img src="https://github.com/user-attachments/assets/0e3e0964-9cb6-434c-bd4e-dabce16ab631" width="400">
-<img src="https://github.com/user-attachments/assets/8397de01-2330-407d-b3cc-b4d6e430bf36" width="400">
+<img src="https://github.com/user-attachments/assets/fab9612a-ea3d-4c8d-8b29-f3bd2f5bee28" width="400">
+<img src="https://github.com/user-attachments/assets/d19f8476-37e2-4f46-a45f-02e3f6d9f9e6" width="400">
+
+
 
 
 Demo video: https://www.youtube.com/watch?v=ovcZZQsaPfE
