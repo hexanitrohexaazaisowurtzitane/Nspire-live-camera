@@ -26,10 +26,12 @@ NspireCx (readport3.0):
 * thats pretty much it
 
 Todo:
-* Real time interface with discord channel
-* AI LLM photo + chat support
-* faster camera controls for stopping stream and etc
-* actually implement the available features into the esp lol
+* ✓ Real time interface with discord channel
+* ✗ improve on transmission preformance
+* ✗ AI LLM photo + chat support
+* ✗ faster camera controls for stopping stream and etc
+* ✗ actually implement the available features into the esp lol
+* ✗ Make use of dock connector (+bypass read write) and hide the electronics
 
 ## Scheme
 ![qiuu](https://github.com/user-attachments/assets/a2b94dbc-631a-4b90-a59e-4046df9790aa)
