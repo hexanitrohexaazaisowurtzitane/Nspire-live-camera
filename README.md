@@ -28,6 +28,7 @@ NspireCx (readport3.0):
 Todo:
 * ✓ Real time interface with discord channel
 * ✗ improve on transmission preformance
+* ✗ use booster 3.3->5 or li battery instead of 5v supply
 * ✗ AI LLM photo + chat support
 * ✗ faster camera controls for stopping stream and etc
 * ✗ actually implement the available features into the esp lol
