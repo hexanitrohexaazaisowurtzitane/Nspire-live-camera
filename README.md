@@ -7,7 +7,7 @@ A cool streaming camera for the ti nspire cx!
 
 
 
-Demo video: https://www.youtube.com/watch?v=ovcZZQsaPfE
+Demo video: https://www.youtube.com/watch?v=OpnwrEVE5LE
 
 
 ### What it does:
